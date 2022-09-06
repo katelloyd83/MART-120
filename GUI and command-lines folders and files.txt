@@ -1,0 +1,18 @@
+# GUI and command-lines folders and files
+My initial thoughts, particularly because I learned to navigate computers using Mac OS X,  is that I prefer GUI—cute icons versus CLI. This method not only feels easier but faster as well. 
+ 
+However, I wish that I had learned on a PC, using CLI, because it appears to be the more advanced option in terms of customizing, searching and understanding how a GUI works/functions. I was always taught that the best way to break rules is to make sure I understand  what I’m breaking and why I’m choosing to do so in the first place. Otherwise is feels like “unproductive practice,” that is, if I am going to break something I should probably know how to fix it and the way to troubleshoot  is written win the code. Akin to learning any new language, lets say Spanish, I might memorize a list of vocabulary words  but if I am unable to use them correctly in a sentence I probably wouldn’t get very far or  the context would be misunderstood  in a way that lead me in the wrong direction.
+
+I find the ability to manipulate a computer to do something that it would not normally do, to be incredibly  intriguing. All the while, the ability to change what is already written, equally terrifying. It feels almost scandalous!
+
+Ultimately, if I am simply trying to organize and browse folders/files on my computer, I will go for the GUI because its feels convenient .  My biggest take away from this assignment is that, no matter which I choose—GUI or CLI, if I do not keep my documents within a structured framework I am going to waste a lot of time trying to locate them.  
+
+
+
+
+
+
+
+
+
+#umt/courses/120
